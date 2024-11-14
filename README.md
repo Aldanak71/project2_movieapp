@@ -42,6 +42,7 @@ This app uses the **The Movie Database (TMDb)** API to fetch movie data.
    REACT_APP_TMDB_API_KEY=your_api_key_here
 
 ### how to run
+```bash
 git clone https://github.com/your-username/movies-app.git
 cd movies-app
 npm install
