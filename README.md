@@ -35,6 +35,12 @@ This app uses the **The Movie Database (TMDb)** API to fetch movie data.
 4. Apply for an API key.
 5. Once approved, copy your API key.
 
+### screen
+Here is a screenshot of the main page:
+
+![Main Page Screenshot](src/shared/ass/image.png)
+   
+
 ### Set up API Key:
 1. Create a `.env` file in your project directory.
 2. Add the following line to the `.env` file:
@@ -48,6 +54,4 @@ cd movies-app
 npm install
 npm start
 
-Here is a screenshot of the main page:
 
-![Main Page Screenshot](src/shared/ass/image.png)
