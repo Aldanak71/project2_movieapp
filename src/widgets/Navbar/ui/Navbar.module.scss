@@ -1,0 +1,15 @@
+.Navbar {
+  height: var(--navbar-height);
+  font: var(--font-l);
+  width: 100%;
+  background-color: #fff;
+  padding: 15px 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  box-shadow: var(--navbar-shadow);
+}
+
+.filter {
+  font: var(--font-m);
+}
